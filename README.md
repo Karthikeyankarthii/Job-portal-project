@@ -77,6 +77,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub](https://github.com/Karthikeyankarthii/Job-portal-project)
+Karthi - [GitHub](https://github.com/Karthikeyankarthii/Job-portal-project)
 
 Project Link: [https://github.com/exclusiveabhi/react-job-portal.git]()
