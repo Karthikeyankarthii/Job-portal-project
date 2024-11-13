@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com
+   git clone https://github.com (https://github.com/Karthikeyankarthii/Job-portal-project)
 2. Install NPM packages:
    ```sh
    cd react-job-portal
@@ -77,6 +77,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub]()
+Abhishek Rajput - [GitHub](https://github.com/Karthikeyankarthii/Job-portal-project)
 
 Project Link: [https://github.com/exclusiveabhi/react-job-portal.git]()
